@@ -1,4 +1,4 @@
-# COSTUMER GYM PLATFORM
+# Costumer Gym Platform
 
 Application developed for a gym, all the code is private.
 
