@@ -1,7 +1,6 @@
 # Costumer Gym Platform
 
-Application developed for a gym, all the code produced is private. 
-Checkout the app in [crffv-gym.com](https://crffv-gym.com/)
+Application developed for a gym, all the code produced is private.<br/>Checkout the app in [crffv-gym.com](https://crffv-gym.com/)
 
 ## app in a nutshell
 * An application for the managment of a gym
