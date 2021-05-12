@@ -1,6 +1,6 @@
 # Costumer Gym Platform
 
-Application developed for a gym, all the code is private.
+Application developed for a gym, all the code produced is private. Checkout the app in this link.
 
 ## app in a nutshell
 * An application for the managment of a gym
