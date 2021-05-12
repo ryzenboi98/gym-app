@@ -8,3 +8,8 @@ Application developed for a gym, all the code produced is private. Checkout the 
 * The page consists on the creation of training plans for gym costumers
 * The gym costumers can check their daily training plans and which exercises they have to do
 
+## login page
+The image above represents the login page of the web app in a computer device.
+
+<img src="/screenshots/login-page.png">
+
