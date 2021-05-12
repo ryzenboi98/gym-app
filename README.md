@@ -13,3 +13,7 @@ The image above represents the login page of the web app in a computer device.
 
 <img src="/screenshots/login-page.png">
 
+It is also handled to the web mobile devices.
+
+<img src="/screenshots/login-page-mb.png">
+
