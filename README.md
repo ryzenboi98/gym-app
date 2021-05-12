@@ -9,12 +9,14 @@ Application developed for a gym, all the code produced is private. Checkout the 
 * The gym costumers can check their daily training plans and which exercises they have to do
 
 ## login page
-###The image above represents the login page of the web app in a computer device.
+The image above represents the login page of the web app in a computer device.
 
 <img src="/screenshots/login-page.png">
 
+<p align="center"> 
+  It is also handled in mobile devices.
+</p>
 
-<p >
 <p align="center"> 
   <img src="/screenshots/login-page-mb.png">
 </p>
