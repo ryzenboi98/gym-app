@@ -6,4 +6,5 @@ Application developed for a gym, all the code produced is private. Checkout the 
 * An application for the managment of a gym
 * The system consists in a web application divided for the gym administrator and the gym costumers
 * The page consists on the creation of training plans for gym costumers
+* The gym costumers can check their daily training plans and which exercises they have to do
 
