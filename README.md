@@ -39,8 +39,8 @@ The image above represents the login page of the web app in a computer device
      <td>Login attempt</td>
   </tr>
   <tr>
-    <td><img src="/screenshots/pos-register.png" width=270></td>
-    <td><img src="/screenshots/wait-register.png" width=270></td>
+    <td><img src="/screenshots/pos-register.png" width=405></td>
+    <td><img src="/screenshots/wait-register.png" width=405></td>
   </tr>
  </table>
 
