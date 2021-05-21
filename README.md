@@ -35,8 +35,8 @@ The image above represents the login page of the web app in a computer device
 
 <table>
   <tr>
-    <td>After registration message</td>
-     <td>Login attempt</td>
+    <td>**After registration message**</td>
+     <td>**Login attempt**</td>
   </tr>
   <tr>
     <td><img src="/screenshots/pos-register.png" width=500></td>
