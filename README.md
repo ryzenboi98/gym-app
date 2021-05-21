@@ -33,7 +33,7 @@ The image above represents the login page of the web app in a computer device
   After the registration the gym customer will decide to add you or not to the application. You must be a gym client to use the app. 
 </p>
 
-![alt-text-1](pos-register.png "title-1") ![alt-text-2](wait-register.png "title-2")
+![alt-text-1](/screenshots/pos-register.png "title-1") ![alt-text-2](/screenshots/wait-register.png "title-2")
 
 
 ## To be continued..
