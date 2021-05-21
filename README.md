@@ -21,4 +21,19 @@ The image above represents the login page of the web app in a computer device
   <img src="/screenshots/login-page-mb.png">
 </p>
 
+<p align="center"> 
+  You can register your own account to the application as long as it follows the application terms. 
+</p>
+
+<p align="center"> 
+  <img src="/screenshots/register.png">
+</p>
+
+<p align="center"> 
+  After the registration the gym customer will decide to add you or not to the application. You must be a gym client to use the app. 
+</p>
+
+![alt-text-1](pos-register.png "title-1") ![alt-text-2](wait-register.png "title-2")
+
+
 ## To be continued..
